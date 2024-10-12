@@ -8,5 +8,6 @@ the weighted completion time minimization problem with capacitated parallel mach
 - WSPT.py contiene l'implementazione dell'algoritmo WSPT (non descritto nel paper ma utilizzato in Alg2)
 - Alg3-Alg4.py contengono l'implementazione degli algoritmi per ambiente online (con strategia di tie-breaking First Index Fit)
 - Alg3_BestFit-Alg4_BestFit.py contengono l'implementazione degli algoritmi per ambiente online (con strategia di tie-breaking Best Fit)
+- test.py contiene l'esecuzione su una piccola istanza del modello esatto e di tutti gli algoritmi 
 - scalability.py contiene l'analisi di scalabilità degli algoritmi offline e del modello esatto
 - online_performance.py contiene l'analisi delle performance degli algoritmi online 
